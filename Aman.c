@@ -2,22 +2,10 @@
 #include<unistd.h> /*for STDOUT_FILENO*/
 #include<stdlib.h> 
 #include<fcntl.h> /*for open*/
-#include<sys/types.h>
-
-void parent()
-{
-	pid_t fd;
-	fd=fork();
-	if(fd<0)
-	child();
-	else if(fd==0)
-	printf("Child process not created");
-	
-	
-}
-void child(int argc,char *argv[])
-{
-	int fd, i, ch; 
+ 
+int main(int argc,char *argv[])
+{ 
+    int fd, i, ch; 
     
     for (i = 1; i < argc; i++) {                    /*iterate the loop for total argument count.*/
         
@@ -34,16 +22,8 @@ void child(int argc,char *argv[])
         
         close(fd);                              /*close the file discriptor*/
     }
-    OUT: 
-        return -1;
-	
-}
- 
-int main()
-{ 
-	parent();
-    
  
     return 0;
-
+OUT: 
+        return -1;
 }
