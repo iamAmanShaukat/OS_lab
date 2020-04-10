@@ -28,7 +28,11 @@ void child(int argc,char *argv[])
             goto OUT; 
         } 
         
-                                      /*close the file discriptor*/
+        while(read(fd,&ch,1))                   /*Read one byte at a time*/
+            
+            write(STDOUT_FILENO,&ch,1);     /*Write the byte on Stdout*/
+        
+        close(fd);                              /*close the file discriptor*/
     }
     OUT: 
         return -1;
@@ -43,4 +47,3 @@ int main()
     return 0;
 
 }
-
