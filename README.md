@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/amanshaukat/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
-<a href="mailto:mailtomeaakash@gmail.com">
+<a href="mailto:iamAmanShaukat@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
 </a>
-<!-- <a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
-</a> -->
 <a href="https://isupersky.medium.com/">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
 </a>
