@@ -1,6 +1,6 @@
 ## Hello World, I'm [Aman Shaukat!](https://www.linkedin.com/in/amanshaukat/) 
 <!--
-**isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iamAmanShaukat/OS_lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+🌱 I’m a Software developer with a masters degree in Computer Science. </br>
+👨‍💻  I am passionate about coding & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Senior Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-Present)
+- [Senior Software Develpment Engineer ](https://www.freecharge.in/) - (Jul'21-Present)
 - [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
 - [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
 
-<!--![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
+<!--![Aman's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
 ![Aman's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamAmanShaukat&layout=compact&langs_count=8&hide_border=true)
 <br />
 
